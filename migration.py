@@ -43,7 +43,7 @@ def split_list_by_n(list_collection, n):
     """
     将list按照n平均分组
     :param list_collection: 列表集合
-    :param n: 分数
+    :param n: 份数
     :return:
     """
     list_split = []
